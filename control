@@ -1,0 +1,9 @@
+Package: com.ariel.slunlock
+Name: ShortLook unlock fix
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Ariel
+Author: Ariel
+Section: Tweaks
