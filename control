@@ -3,7 +3,7 @@ Name: ShortLook unlock fix
 Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
 Version: 0.1
 Architecture: iphoneos-arm
-Description: Fix a bug where the device stays unlocked after receiving a notification from ShortLook‫.‬
+Description: Fix a bug where the device stays unlocked after receiving a notification from  ShortLook‫.‬ Source code: https://github.com/arielariel1010/ShortLookLockFix
 Maintainer: Ariel
 Author: Ariel
 Section: Tweaks
